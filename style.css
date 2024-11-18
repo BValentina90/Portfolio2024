@@ -77,9 +77,6 @@ footer {
 
 body {
     padding-bottom: 3em;
-}
-
-body {
-    background-image: url('fondo.webp');
+    background-image: url('fondo2.jpg');
     background-size: cover;
 }
